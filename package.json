@@ -1,0 +1,31 @@
+{
+  "name": "strapi-hook-pug",
+  "version": "1.0.0",
+  "description": "Strpi hook allows to use Pug.js(Jade) template engine with custom options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarkhairy21/strapi-hook-pug.git"
+  },
+  "keywords": [
+    "strapi",
+    "hook",
+    "pug",
+    "pug.js"
+  ],
+  "author": { 
+    "name": "Omar Khairy",
+    "email": "omarkhair21@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarkhairy21/strapi-hook-pug/issues"
+  },
+  "homepage": "https://github.com/omarkhairy21/strapi-hook-pug#readme",
+  "dependencies": {
+    "koa-pug": "^5.0.0"
+  }
+}
