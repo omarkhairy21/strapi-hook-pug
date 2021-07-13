@@ -2,6 +2,10 @@
 
 Strpi hook allows to use Pug.js(Jade) template engine with custom options
 
+## installation 
+
+```npm i strapi-hook-pug```
+
 ## Configuration
 
 In order to config your hook with custom options, you need to edit your ```./config/hook.js``` or ```./config/hook.json``` file in strapi app
@@ -21,6 +25,8 @@ In order to config your hook with custom options, you need to edit your ```./con
   }
   ...
 ```
+
+> Side Note : settings object is required inside config file.
 
 ## usage
 
