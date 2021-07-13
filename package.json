@@ -1,6 +1,6 @@
 {
   "name": "strapi-hook-pug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Strpi hook allows to use Pug.js(Jade) template engine with custom options",
   "main": "index.js",
   "scripts": {
